@@ -34,9 +34,10 @@ I'm a passionate software developer with a background in Computer Science, speci
 ---
 
 ### 📫 Get In Touch
-- LinkedIn: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/mohdmeraaz08/)
-- Portfolio: [yourportfolio.com](https://mdmeraaz08.github.io/myPortfolioWebsite/)
-- Email: meraaz0809@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohdmeraaz08)
+- 💻 [GitHub](https://github.com/MdMeraaz08/)
+- 📬 Email: meraaz0809@gmail.com
+
 - 
 
 ---
