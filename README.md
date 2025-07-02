@@ -38,7 +38,7 @@ I'm a passionate software developer with a background in Computer Science, speci
 - 💻 [GitHub](https://github.com/MdMeraaz08/)
 - 📬 Email: meraaz0809@gmail.com
 
-- 
+
 
 ---
 
