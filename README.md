@@ -1,4 +1,4 @@
-[![MasterHead](https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1400&q=80)](#)
+
 
 <h1 align="center">Hi 👋, I'm Mohd Meraaz</h1>
 <h3 align="center">Java Full Stack Trainee | AI & ML Enthusiast | Android Developer | Software Engineer</h3>
@@ -114,12 +114,12 @@ C++ terminal-based toolkit implementing advanced data structure operations.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdMeraaz08&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdMeraaz08&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohd-meraaz&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-meraaz&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdMeraaz08&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-meraaz&theme=tokyonight" />
 </p>
 
 ---
