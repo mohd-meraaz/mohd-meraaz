@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohd%20Meraaz&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Full%20Stack%20Trainee%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Android%20Developer&descAlignY=55&descSize=18"/>
+
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Mohd+Meraaz!;%F0%9F%92%BB+Java+Full+Stack+Trainee!;%F0%9F%A7%A0+DSA+Problem+Solver!;%F0%9F%93%B1+Android+Developer!;%F0%9F%A4%96+AI+%26+ML+Enthusiast!;%F0%9F%9A%80+Building+the+Future%2C+One+Commit+at+a+Time!)](https://git.io/typing-svg)
