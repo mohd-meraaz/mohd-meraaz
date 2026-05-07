@@ -9,9 +9,9 @@
 <br/>
 
 <!-- Profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=MdMeraaz08&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=mohd-meraaz&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/MdMeraaz08?label=Followers&style=for-the-badge&color=0e75b6&labelColor=000" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/mohd-meraaz?label=Followers&style=for-the-badge&color=0e75b6&labelColor=000" alt="Followers"/>
 
 </div>
 
@@ -22,7 +22,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdmeraaz08)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MdMeraaz08)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohd-meraaz)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meraaz0809@gmail.com)
 
 </div>
@@ -155,7 +155,7 @@ Built using **Kotlin & Jetpack Compose** with RecyclerView support.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MdMeraaz08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohd-meraaz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -165,13 +165,13 @@ Built using **Kotlin & Jetpack Compose** with RecyclerView support.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MdMeraaz08&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MdMeraaz08&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohd-meraaz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-meraaz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdMeraaz08&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MdMeraaz08&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohd-meraaz&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 
 </div>
 
@@ -181,7 +181,7 @@ Built using **Kotlin & Jetpack Compose** with RecyclerView support.
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/MdMeraaz08?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/MdMeraaz08/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/mohd-meraaz?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/mohd-meraaz/)
 
 </div>
 
