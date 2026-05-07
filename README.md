@@ -165,12 +165,12 @@ Built using **Kotlin & Jetpack Compose** with RecyclerView support.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohd-meraaz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+![mohd-meraaz's GitHub Stats](https://readme-stats-github.pages.dev/api?username=mohd-meraaz&theme=dark)
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-meraaz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdMeraaz08&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=mohd-meraaz&theme=dark)
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohd-meraaz&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 
 </div>
